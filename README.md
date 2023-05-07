@@ -29,6 +29,8 @@ Some images of how this website looks in different resolutions.
 
 ![Screenshot of My Project](/img/readme/blogdecafe4.png "Contacto Page")
 
+![Screenshot of My Project](/img/readme/blogdecafe5.png "Form Validation")
+
 ### Authors
 I did this project for educational purposes as a frontend practice.
 
